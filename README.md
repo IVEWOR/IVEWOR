@@ -13,7 +13,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-📫 **Let's connect:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakJangra&show_icons=true&theme=tokyonight)
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=DeepakJangra&theme=react-dark)
+📫 **Let's connect:**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/deepakjangra)
+[![howdy@deepslog.com](mailto:howdy@deepslog.com)]
