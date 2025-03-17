@@ -15,4 +15,4 @@
 
 📫 **Let's connect:**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/deepakjangra)
-[![howdy@deepslog.com](mailto:howdy@deepslog.com)]
+[![howdy@deepslog.com]](mailto:howdy@deepslog.com)
