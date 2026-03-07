@@ -1,19 +1,30 @@
-## 👋 Hi, I'm Deepak!
-🚀 **Freelance Software Developer**  
-💻 7+ years of experience in **Web Development, E-Commerce, SAAS**  
-🌍 Helping businesses build scalable digital solutions  
+# Deepak.
 
-### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Senior Full-Stack Developer & Technical Partner for Agencies**
 
-📫 **Let's connect:**
--------
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/thedeepakjangra)
-[![howdy@deepslog.com](https://img.shields.io/badge/howdy@deepslog.com-fff)](mailto:howdy@deepslog.com)
+---
+
+I engineer high-performance web applications, specializing in Next.js, Shopify, and enterprise-grade architecture. For the past 9+ years, I've operated as the silent technical backbone for ambitious agencies and startups, turning complex requirements into scalable, sub-second production apps.
+
+### ⚡ Core Focus
+- **White-Label Development:** Building seamless, NDA-protected applications for global agencies.
+- **Performance Optimization:** Re-architecting bloated frontends for flawless Core Web Vitals.
+- **Codebase Rescue:** Stabilizing and scaling AI-generated or legacy codebases.
+
+### 💻 Technical Arsenal
+
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
+
+### 🔗 Connect & Explore
+
+- **Portfolio & Case Studies:** [deepslog.com](https://deepslog.com)
+- **Book a Discovery Call:** [cal.com/deepslog/meet](https://cal.com/deepslog/meet)
+- **Email:** [howdy@deepslog.com](mailto:howdy@deepslog.com)
+
+> *"Stop rolling the dice on unreliable contractors. Let's build scalable sites that people love, delivered on time, every time."*
