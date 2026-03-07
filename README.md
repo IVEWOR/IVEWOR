@@ -27,4 +27,4 @@ I engineer high-performance web applications, specializing in Next.js, Shopify, 
 - **Book a Discovery Call:** [cal.com/deepslog/meet](https://cal.com/deepslog/meet)
 - **Email:** [howdy@deepslog.com](mailto:howdy@deepslog.com)
 
-> *"Stop rolling the dice on unreliable contractors. Let's build scalable sites that people love, delivered on time, every time."*
+> *"Stop rolling the dice. Let's build scalable sites that people love, delivered on time, every time."*
