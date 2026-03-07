@@ -1,6 +1,4 @@
-# Deepak.
-
-**Senior Full-Stack Developer & Technical Partner for Agencies**
+# Deepak. **Senior Full-Stack Developer & Technical Partner for Agencies**
 
 ---
 
