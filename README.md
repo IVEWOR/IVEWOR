@@ -1,30 +1,33 @@
-# Deepak.
+# Hey, I'm Deepak 👋
 
-**Senior Full-Stack Developer & Technical Partner for Agencies**
+I'm a senior full-stack developer with 9+ years of experience specializing in **Shopify Plus**, **Next.js**, and **web performance**. 
+
+I mostly work behind the scenes as a technical partner for agencies and high-volume brands—building fast storefronts, re-architecting slow codebases, and stabilizing messy AI-built MVPs so they're actually ready for production.
 
 ---
 
-I engineer high-performance web applications, specializing in Next.js, Shopify, and enterprise-grade architecture. For the past 9+ years, I've operated as the silent technical backbone for ambitious agencies and startups, turning complex requirements into scalable, sub-second production apps.
+### What I Do
+- **Shopify Plus & Headless:** Custom themes, Hydrogen/Next.js storefronts, and Checkout Extensibility.
+- **Speed & Core Web Vitals:** Fixing bloated frontends, cutting page weight, and boosting conversions.
+- **AI Code Rescue:** Cleaning up and refactoring buggy AI-generated code (Cursor, Copilot) into maintainable software.
+- **White-Label Dev:** Acting as a reliable, quiet lead developer for global agencies.
 
-### Core Focus
-- **White-Label Development:** Building seamless, NDA-protected applications for global agencies.
-- **Performance Optimization:** Re-architecting bloated frontends for flawless Core Web Vitals.
-- **Codebase Rescue:** Stabilizing and scaling AI-generated or legacy codebases.
+---
 
-### Technical Arsenal
+### Tech Stack
 
+![Shopify](https://img.shields.io/badge/Shopify_Plus-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
 
-### Connect & Explore
+---
 
-- **Portfolio & Case Studies:** [deepslog.com](https://deepslog.com)
-- **Book a Discovery Call:** [cal.com/deepslog/meet](https://cal.com/deepslog/meet)
-- **Email:** [howdy@deepslog.com](mailto:howdy@deepslog.com)
+### Find Me Here
 
-> *"Stop rolling the dice. Let's build scalable sites that people love, delivered on time, every time."*
+- **Blog & Benchmarks:** [deepakj.dev](https://deepakj.dev)
+- **Toptal Profile:** [View Experience](https://www.toptal.com/developers/resume/deepak-jangra)
+- **X (Twitter):** [@deepakjdev](https://x.com/deepakjdev)
+- **Email:** [howdy@deepakj.dev](mailto:howdy@deepakj.dev)
