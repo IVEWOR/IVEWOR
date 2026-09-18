@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="_umcpVMnCClE0hbwlapr_tA-YY-X98KVoX0nWIMERsM" />
+
 # Hey, I'm Deepak 👋
 
 I'm a senior full-stack developer with 9+ years of experience specializing in **Shopify Plus**, **Next.js**, and **web performance**. 
